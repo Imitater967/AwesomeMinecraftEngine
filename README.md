@@ -11,9 +11,9 @@ collections for creating an minecraft like engine
 
 ## Physics
 
-[DDA(Unity)](https://github.com/Victorique-GOSICK/Voxel-3D-DDA/tree/master/Voxel-3D)
-[DDA](https://www.youtube.com/watch?v=NbSee-XM7WA)
-[BoxIntersect](https://github.com/mikolalysenko/box-intersect)
+[DDA(Unity)](https://github.com/Victorique-GOSICK/Voxel-3D-DDA/tree/master/Voxel-3D)  
+[DDA](https://www.youtube.com/watch?v=NbSee-XM7WA)  
+[BoxIntersect](https://github.com/mikolalysenko/box-intersect)  
 
 ## Navigation
 
