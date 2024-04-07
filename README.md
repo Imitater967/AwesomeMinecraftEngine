@@ -3,22 +3,27 @@ collections for creating an minecraft like engine
 
 ## Meshing
 
-[GreedyMesh](https://vercidium.com/blog/voxel-world-optimisations/)
+[GreedyMesh](https://vercidium.com/blog/voxel-world-optimisations/)  
 
-## Texturing
+## Rendering
 
-[GreedyTexture](https://sites.google.com/view/3dvoxelgame/greedy-textures)
+[GreedyTexture](https://sites.google.com/view/3dvoxelgame/greedy-textures)   
+[MinecraftShaderProgramming](https://github.com/saada2006/MinecraftShaderProgramming)   
 
 ## Physics
 
-[DDA(Unity)](https://github.com/Victorique-GOSICK/Voxel-3D-DDA/tree/master/Voxel-3D)  
-[DDA](https://www.youtube.com/watch?v=NbSee-XM7WA)  
-[BoxIntersect](https://github.com/mikolalysenko/box-intersect)  
+[DDA(Unity)](https://github.com/Victorique-GOSICK/Voxel-3D-DDA/tree/master/Voxel-3D)   
+[DDA](https://www.youtube.com/watch?v=NbSee-XM7WA)   
+[BoxIntersect](https://github.com/mikolalysenko/box-intersect)   
 
 ## Navigation
 
-[AStar](https://www.youtube.com/watch?v=-L-WgKMFuhE)
+[AStar](https://www.youtube.com/watch?v=-L-WgKMFuhE)  
 
-## Engine
+## Engines
 
-[Terasology](https://github.com/MovingBlocks/Terasology)
+[Terasology](https://github.com/MovingBlocks/Terasology)  
+
+## Examples
+
+[MonoGame Minecraft](https://github.com/Acueres/SharpCraft)  
