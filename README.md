@@ -5,6 +5,9 @@ collections for creating an minecraft like engine
 
 [Greedy Mesh](https://vercidium.com/blog/voxel-world-optimisations/)  
 
+# Noise
+[How To Generate Mountain](https://www.youtube.com/watch?v=gsJHzBTPG0Y)  
+
 ## Rendering
 
 [Greedy Texture](https://sites.google.com/view/3dvoxelgame/greedy-textures)   
