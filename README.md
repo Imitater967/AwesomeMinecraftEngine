@@ -4,7 +4,7 @@ collections for creating an minecraft like engine
 ## Meshing
 
 [Greedy Mesh](https://vercidium.com/blog/voxel-world-optimisations/)  
-
+[Optimize](https://vercidium.com/blog/voxel-world-optimisations/)
 # Noise
 [How To Generate Mountain](https://www.youtube.com/watch?v=gsJHzBTPG0Y)  
 
